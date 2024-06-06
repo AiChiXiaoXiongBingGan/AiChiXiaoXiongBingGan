@@ -27,11 +27,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AiChiXiaoXiongBingGan&theme=onedark" alt="GitHub Trophy" />
 </p>
 
-## 🌟 GitHub活动图
+## 🌟 语言能力
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AiChiXiaoXiongBingGan&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AiChiXiaoXiongBingGan&theme=dark&layout=compact)
+
 
 ## 🌟 精选项目
 
