@@ -34,8 +34,8 @@
 
 ## 🌟 精选项目
 
-- [项目名称](https://github.com/AiChiXiaoXiongBingGan/CWRU-dataset)：CWRU数据集用于故障诊断算法训练
-- [项目名称](https://github.com/AiChiXiaoXiongBingGan/Kika)：Kika AI智能答题平台（后端）
-- [项目名称](https://github.com/AiChiXiaoXiongBingGan/Kika-front)：Kika AI智能答题平台 （前端）
+- [CWRU数据集用于故障诊断算法训练](https://github.com/AiChiXiaoXiongBingGan/CWRU-dataset) 用于ai诊断算法测试与评估的数据集，已用于各类顶级刊物中
+- [Kika AI智能答题平台（后端）](https://github.com/AiChiXiaoXiongBingGan/Kika)：基于java开发的AI智能答题平台
+- [Kika AI智能答题平台 （前端）](https://github.com/AiChiXiaoXiongBingGan/Kika-front)：基于java开发的AI智能答题平台 （前端）
 
 感谢你的访问！希望你能喜欢我的项目和研究。
