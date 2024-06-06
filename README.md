@@ -1,4 +1,4 @@
-# 👋 你好，我是 [你的名字]！
+# 👋 你好，我是鹿翔！
 
 🎓 我目前就读于 **哈尔滨工业大学**，主修电子信息。
 
@@ -30,7 +30,7 @@
 ## 🌟 GitHub活动图
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AiChiXiaoXiongBingGan&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AiChiXiaoXiongBingGan&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ## 🌟 精选项目
