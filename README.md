@@ -16,7 +16,21 @@
 ## 📈 我的GitHub统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AiChiXiaoXiongBingGan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiChiXiaoXiongBingGan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiChiXiaoXiongBingGan&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+## 🏆 GitHub奖杯
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AiChiXiaoXiongBingGan&theme=onedark" alt="GitHub Trophy" />
+</p>
+
+## 🌟 GitHub活动图
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AiChiXiaoXiongBingGan&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ## 🌟 精选项目
