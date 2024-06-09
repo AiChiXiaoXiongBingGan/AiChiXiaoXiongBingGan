@@ -1,19 +1,19 @@
 # 👋 Hello，l'm Lux！
 
-🎓 我目前就读于 **哈尔滨工业大学**，主修电子信息。
+🎓 I am currently studying at **Harbin Institute of Technology**, majoring in **Electronic Information**.。
 
-🔍 我的研究方向是 **人工智能算法** 和 **故障诊断**。
+🔍 My research focuses on **methods for rotating machinery fault diagnosis in weakly supervised scenarios**.
 
-📫 你可以通过以下方式联系我：
-- 邮箱：luxiang2@126.com
+📫 You can contact me through the following methods:
+- Email：luxiang2@126.com
 
-## 🛠 技能
+## 🛠 Skills
 
-- **编程语言**: Python, Java, C
-- **框架**: PyTorch, TensorFlow, Spring Boot
-- **工具**: Git, Docker, Kubernetes
+- **Programming Languages**: Python, Java, C
+- **Frameworks**: PyTorch, Spring, TensorFlow
+- **Tools**: Git, Docker, Kubernetes
 
-## 📈 我的GitHub统计
+## 📈 My GitHub statistics:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AiChiXiaoXiongBingGan&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -21,21 +21,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiChiXiaoXiongBingGan&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-## 🏆 GitHub奖杯
+## 🏆 GitHub Trophies:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AiChiXiaoXiongBingGan&theme=onedark" alt="GitHub Trophy" />
 </p>
 
-## 🌟 语言能力
+## 🌟 Language Proficiency:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AiChiXiaoXiongBingGan&theme=dark&layout=compact)
 
 
-## 🌟 精选项目
+## 🌟 Selected Projects:
 
 - [CWRU数据集用于故障诊断算法训练](https://github.com/AiChiXiaoXiongBingGan/CWRU-dataset) 用于ai诊断算法测试与评估的数据集，已用于各类顶级刊物中
 - [Kika AI智能答题平台（后端）](https://github.com/AiChiXiaoXiongBingGan/Kika)：基于java开发的AI智能答题平台
 - [Kika AI智能答题平台 （前端）](https://github.com/AiChiXiaoXiongBingGan/Kika-front)：基于java开发的AI智能答题平台 （前端）
 
-感谢你的访问！希望你能喜欢我的项目和研究。
+Thank you for your visit! I hope you enjoy my project and research.
