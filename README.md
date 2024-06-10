@@ -1,8 +1,8 @@
 # 👋 Hello，l'm Lux！
 
-🎓 I am currently studying at **Harbin Institute of Technology**, majoring in **Electronic Information**.。
+🎓 I am currently studying at *Harbin Institute of Technology*, majoring in *Electronic Information*.。
 
-🔍 My research focuses on **methods for rotating machinery fault diagnosis in weakly supervised scenarios**.
+🔍 My research focuses on *methods for rotating machinery fault diagnosis in weakly supervised scenarios*.
 
 📫 You can contact me through the following methods:
 - Email：luxiang2@126.com
